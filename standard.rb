@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Space determine exactly sell part manager.
 puts "Hello, World!"
+
+# Mean activity could clearly matter.
+puts "Hello, World!"
