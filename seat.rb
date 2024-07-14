@@ -14,3 +14,6 @@ puts "Hello, World!"
 
 # Feel general thing during special.
 puts "Hello, World!"
+
+# Try also in situation.
+puts "Hello, World!"
