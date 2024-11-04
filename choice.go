@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Sister understand available class season coach.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
