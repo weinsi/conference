@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Threat speak father participant friend.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
