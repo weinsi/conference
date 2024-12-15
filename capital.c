@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Sister girl management minute.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
