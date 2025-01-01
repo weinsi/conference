@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Protect remain above piece article speech.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
