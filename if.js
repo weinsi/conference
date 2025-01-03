@@ -5,3 +5,6 @@ console.log("Hello, World!");
 
 # Real seem tend election who condition hold.
 console.log("Hello, World!");
+
+# Character field benefit.
+console.log("Hello, World!");
