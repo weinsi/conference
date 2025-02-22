@@ -1,3 +1,3 @@
 # conference
 
-Product method probably long and partner interesting.
+Class couple usually Mr type.
